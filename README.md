@@ -1,0 +1,1 @@
+a simple browser-based Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns placing Xs and Os on a 3×3 grid. It features interactive gameplay, win/tie detection, and a reset button to start a new round
